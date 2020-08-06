@@ -14,6 +14,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ###  Contact
 
-[email](rajabia@oreogonstate.edu)
+Email: rajabia@oregonstate.edu
 
-[linkedin]( www.linkedin.com/in/Arezoo-Rajabi)
+Linkedin: www.linkedin.com/in/Arezoo-Rajabi
