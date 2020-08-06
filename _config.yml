@@ -1,20 +1,8 @@
 #https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 theme: jekyll-theme-minimal
 title:  Arezoo Rajabi
-
-author: Some Person
-
-avatar: "/images/arezoo.jpg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
-social-network-links:
-  email: "someone@example.com"
-  linkedin: daattali
-
-
-#logo: /images/arezoo.jpg
+email: your-email@domain.com
+logo: /images/arezoo.jpg
 #title:  Arezoo Rajabi
 #subtitle: Graduate Research Assistant
 #description: rajabia@oregonstate.edu
