@@ -4,5 +4,16 @@ title: Arezoo Rajabi
 description: rajabia@oregonstate.edu
 minimal_mistakes_skin: "contrast" #"default", "air", "aqua", "contrast",
 subtitle: "Graduate Research Assistant"
+links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "rajabia@oregonstate.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/extravagantman"
+
 github: 
   is_project_page: false
