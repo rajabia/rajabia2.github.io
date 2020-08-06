@@ -1,26 +1,25 @@
+#https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 theme: jekyll-theme-minimal
 logo: /images/arezoo.jpg
 #title: Arezoo Rajabi
 #subtitle: Graduate Research Assistant
 #description: rajabia@oregonstate.edu
+minimal_mistakes_skin: contrast #"default", "air", "aqua", "contrast",
 author:
   name     : Arezoo Rajabi
   avatar   : /images/arezoo.jpg
   bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : Corvallis, USA
-
-minimal_mistakes_skin: contrast #"default", "air", "aqua", "contrast",
-
-links:
-    - label: Email
-      icon: fas fa-fw fa-envelope-square
-      url: rajabia@oregonstate.edu
-    - label: Website
-      icon: fas fa-fw fa-link
-      url: https://thewhip.com
-    #- label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/extravagantman"
+  location : Corvallis, US
+  links:
+      - label: Email
+        icon: fas fa-fw fa-envelope-square
+        url: rajabia@oregonstate.edu
+      - label: Website
+        icon: fas fa-fw fa-link
+        url: https://thewhip.com
+      #- label: "Twitter"
+       # icon: "fab fa-fw fa-twitter-square"
+        #url: "https://twitter.com/extravagantman"
 
 github: 
   is_project_page: false
