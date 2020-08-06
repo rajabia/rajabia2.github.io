@@ -1,8 +1,14 @@
 theme: jekyll-theme-minimal
 logo: /images/arezoo.jpg
-title: Arezoo Rajabi
-subtitle: Graduate Research Assistant
-description: rajabia@oregonstate.edu
+#title: Arezoo Rajabi
+#subtitle: Graduate Research Assistant
+#description: rajabia@oregonstate.edu
+author:
+  name     : Arezoo Rajabi
+  avatar   : /images/arezoo.jpg
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : Corvallis, USA
+
 minimal_mistakes_skin: contrast #"default", "air", "aqua", "contrast",
 
 links:
