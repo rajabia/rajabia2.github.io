@@ -2,5 +2,7 @@ theme: jekyll-theme-minimal
 logo: /images/arezoo.jpg
 title: Arezoo Rajabi
 description: rajabia@oregonstate.edu
+minimal_mistakes_skin: "contrast" #"default", "air", "aqua", "contrast",
+subtitle: "Graduate Research Assistant"
 github: 
   is_project_page: false
