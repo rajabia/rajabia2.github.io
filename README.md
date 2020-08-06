@@ -1,14 +1,11 @@
-## Welcom to Arezoo Rajabi's Homepage
+## Welcome to Arezoo Rajabi's Homepage
 
 ![Arezoo](/images/arezoo.jpg)
 
 
 ### Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+Working on
 
 
 ###  Contact
