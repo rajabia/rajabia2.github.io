@@ -1,8 +1,7 @@
 ## Welcom to Arezoo Rajabi's Homepage
 
-You can use the [editor on GitHub](https://github.com/rajabia/arezoorajabi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Arezoo](/images/arezoo.jpg)
+Format: ![Alt Text](url)
 
 ### Bio
 
@@ -14,6 +13,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ###  Contact
 
-Email: rajabia@oregonstate.edu
+Email: (rajabia@oregonstate.edu)
 
-Linkedin: www.linkedin.com/in/Arezoo-Rajabi
+Linkedin: (www.linkedin.com/in/Arezoo-Rajabi)
