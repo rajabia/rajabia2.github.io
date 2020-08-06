@@ -1,10 +1,10 @@
 #https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #logo: /images/arezoo.jpg
 #title: Arezoo Rajabi
 #subtitle: Graduate Research Assistant
 #description: rajabia@oregonstate.edu
-#minimal_mistakes_skin: contrast #"default", "air", "aqua", "contrast",
+minimal_mistakes_skin: contrast #"default", "air", "aqua", "contrast",
 author:
   name     : "Arezoo Rajabi"
   avatar   : "/images/arezoo.jpg"
