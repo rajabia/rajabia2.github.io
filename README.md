@@ -1,7 +1,7 @@
 ## Welcom to Arezoo Rajabi's Homepage
 
 ![Arezoo](/images/arezoo.jpg)
-Format: ![Alt Text](url)
+
 
 ### Bio
 
