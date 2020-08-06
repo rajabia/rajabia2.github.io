@@ -8,6 +8,11 @@
 
 Working on
 
+### Education
+* Oregon State University, Corvallis, Oregon, PhD Candidate in Computer Science (USA 2014 – Present)
+* Sharif University of Technology, Master of Science (M.S.) in Computer Engineering (2011 – 2013)
+* Sharif University of Technology, Bachelor Science (B.S.) in Computer Science (2005 – 2010)
+
 ### [Publications](/Publications/papers.html)
 
 ### News
