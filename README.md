@@ -13,6 +13,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ###  Contact
 
-Email: (rajabia@oregonstate.edu)
+Email: rajabia@oregonstate.edu
 
-Linkedin: (www.linkedin.com/in/Arezoo-Rajabi)
+Linkedin: www.linkedin.com/in/Arezoo-Rajabi
