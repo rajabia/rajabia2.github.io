@@ -1,6 +1,6 @@
 
 
-![Arezoo](/images/arezoo.jpg)
+
 #### Arezoo Rajabi
 #### Graduate Research Assistant @ Oregon State University
 
