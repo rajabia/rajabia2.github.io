@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: /images/arezoo.jpg
 title: Arezoo Rajabi
 description: rajabia@oregonstate.edu
+github: is_project_page: false
