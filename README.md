@@ -8,7 +8,7 @@
 
 Working on
 
-### [Publications](/Publications/papars.md)
+### [Publications](/Publications/papers.md)
 
 ###  Contact
 
