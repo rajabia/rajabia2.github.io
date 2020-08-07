@@ -1,28 +1,33 @@
 #https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-theme: jekyll-theme-minimal
-title:  Arezoo Rajabi
-email: your-email@domain.com
+
+title: Your awesome title
 logo: /images/arezoo.jpg
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: false # set to true to show excerpts on the homepage
 
-#title:  Arezoo Rajabi
-#subtitle: Graduate Research Assistant
-#description: rajabia@oregonstate.edu
-#minimal_mistakes_skin: "contrast" #"default", "air", "aqua", "contrast",
-# author: 
-  #name     : "Arezoo Rajabi"
-#   avatar   : "/images/arezoo.jpg"
-#   bio      : "My awesome biography constrained to a sentence or two goes here."
-#   location : "Corvallis, US"
-#   links:
-#       - label: "Email"
-#         icon: "fas fa-fw fa-envelope-square"
-#         url: "rajabia@oregonstate.edu"
-#       - label: "Website"
-#         icon: "fas fa-fw fa-link"
-#         url: "https://thewhip.com"
-      #- label: "Twitter"
-       # icon: "fab fa-fw fa-twitter-square"
-        #url: "https://twitter.com/extravagantman"
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-github: 
-  is_project_page: false
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+
+
+# theme: jekyll-theme-minimal
+# title:  Arezoo Rajabi
+# email: your-email@domain.com
+# logo: /images/arezoo.jpg
+
+
+
+# github: 
+#   is_project_page: false
