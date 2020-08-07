@@ -1,10 +1,10 @@
 
 
+### [Education](#edu), [News](#news),[Contact](#contact)
 
 
 
-
-### Education
+### Education {#edu}
 * Oregon State University, Corvallis, Oregon, PhD Candidate in Computer Science (USA 2014 – Present)
 * Sharif University of Technology, Master of Science (M.S.) in Computer Engineering (2011 – 2013)
 * Sharif University of Technology, Bachelor Science (B.S.) in Computer Science (2005 – 2010)
@@ -25,7 +25,7 @@ I’ve received my Bachelors and Masters degree in Computer Science from Sharif 
 ### [CV](/cv.pdf)
 
 
-### News
+### News{#news}
 
 * First place winner at Grad show case poster presentation, ”Towards Dependable Deep CNNs with Out-distribution Learning ” 2018
 * CREDC summer school student scholarship 2017 
@@ -33,7 +33,7 @@ I’ve received my Bachelors and Masters degree in Computer Science from Sharif 
 * Conference on Computer and Communications Security (CCS) workshop student  travel award 2017 
 * Annual Computer Security Applications Conference (ASCAC) student conferenceship award 2016
 
-###  Contact
+###  Contact{#contact}
 
 Email: rajabia@oregonstate.edu
 
