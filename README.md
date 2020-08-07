@@ -1,7 +1,6 @@
 
 
-### [Education](#education)  |   [News](#news) |  [Contact](#contact) |[Publications](/Publications/papers.html) |[Projects](/Publications/projects.html)
- | [CV](/cv.pdf)
+### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) |[Projects](/Publications/projects.html)| [CV](/cv.pdf)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
