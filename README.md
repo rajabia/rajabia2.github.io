@@ -3,22 +3,18 @@
 ### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) |[Projects](/Publications/projects.html)| [CV](/CV.pdf)
 ----------------------------------------------------------------------------------------------------------------------------------
 
+### Biography
+
+I’ve received my Bachelors and Masters degree in Computer Science from Sharif University of Technology, Tehran, Iran. I am a PhD candidate at Oregon State University.  My research interests are:
+* Image privacy in image sharing platforms
+* Deep learning and robus models in machine learning
+* Fault tolerance algorithms
 
 
 ### Education
 * Oregon State University, Corvallis, Oregon, PhD Candidate in Computer Science (USA 2014 – Present)
 * Sharif University of Technology, Master of Science (M.S.) in Computer Engineering (2011 – 2013)
 * Sharif University of Technology, Bachelor Science (B.S.) in Computer Science (2005 – 2010)
-
-
-### Biography
-
-I’ve received my Bachelors and Masters degree in Computer Science from Sharif University of Technology, Tehran, Iran. I am a PhD candidate student at Oregon State University.  My research interests are:
-* Image privacy in image sharing platforms
-* Deep learning and robus models in machine learning
-* Fault tolerance algorithms
-
-
 
 
 
