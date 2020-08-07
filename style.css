@@ -1,5 +1,5 @@
-@import "fonts";
-@import "rouge-github";
+@import "_sass/fonts";
+@import "_sass/rouge-github";
 
 body {
   background-color: #fff;
