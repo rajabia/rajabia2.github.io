@@ -1,6 +1,7 @@
 
 
-### [Education](#education)       |                       [News](#news)            |                         [Contact](#contact)
+### [Education](#education)  |   [News](#news) |  [Contact](#contact) |[Publications](/Publications/papers.html) |[Projects](/Publications/projects.html)
+ | [CV](/cv.pdf)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -21,9 +22,7 @@ I’ve received my Bachelors and Masters degree in Computer Science from Sharif 
 
 
 
-### [Publications](/Publications/papers.html)
-### [Projects](/Publications/projects.html)
-### [CV](/cv.pdf)
+
 
 
 ### News
