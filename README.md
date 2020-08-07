@@ -1,6 +1,6 @@
 
 
-### [Education](#education), [News](#news),[Contact] (#contact)
+### [Education](#education), [News](#news),[Contact](#contact)
 
 
 
