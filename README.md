@@ -12,9 +12,9 @@
 
 ### Biography
 
-I’ve received my Bachelors and Masters degree in Computer Science from Sharif University of Technology, Tehran, Iran. I am a PhD candidate student at Oregon State University.  My research area interest are:
-* Image privacy
-* Robust deep learning models
+I’ve received my Bachelors and Masters degree in Computer Science from Sharif University of Technology, Tehran, Iran. I am a PhD candidate student at Oregon State University.  My research interests are:
+* Image privacy in image sharing platforms
+* Deep learning and robus models in machine learning
 * Fault tolerance algorithms
 
 Please find summary of my projects [here](/projects.html).
