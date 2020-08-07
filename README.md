@@ -1,11 +1,11 @@
 
 
-### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) |[Projects](/Publications/projects.html)| [CV](/cv.pdf)
+### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) |[Projects](/Publications/projects.html)| [CV](/CV.pdf)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
 
-### Education {#edu}
+### Education
 * Oregon State University, Corvallis, Oregon, PhD Candidate in Computer Science (USA 2014 – Present)
 * Sharif University of Technology, Master of Science (M.S.) in Computer Engineering (2011 – 2013)
 * Sharif University of Technology, Bachelor Science (B.S.) in Computer Science (2005 – 2010)
