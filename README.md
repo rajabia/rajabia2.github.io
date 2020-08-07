@@ -17,10 +17,13 @@ I’ve received my Bachelors and Masters degree in Computer Science from Sharif 
 * Deep learning and robus models in machine learning
 * Fault tolerance algorithms
 
-Please find summary of my projects [here](/projects.html).
+
 
 
 ### [Publications](/Publications/papers.html)
+### [Projects](/Publications/projects.html)
+### [CV](/cv.pdf)
+
 
 ### News
 
