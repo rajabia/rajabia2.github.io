@@ -1,6 +1,6 @@
 
 
-### [Education](#edu), [News](#news),[Contact](#contact)
+### [Education](#education), [News](#news),[Contact] (#contact)
 
 
 
@@ -25,7 +25,7 @@ I’ve received my Bachelors and Masters degree in Computer Science from Sharif 
 ### [CV](/cv.pdf)
 
 
-### News{#news}
+### News
 
 * First place winner at Grad show case poster presentation, ”Towards Dependable Deep CNNs with Out-distribution Learning ” 2018
 * CREDC summer school student scholarship 2017 
@@ -33,8 +33,7 @@ I’ve received my Bachelors and Masters degree in Computer Science from Sharif 
 * Conference on Computer and Communications Security (CCS) workshop student  travel award 2017 
 * Annual Computer Security Applications Conference (ASCAC) student conferenceship award 2016
 
-###  Contact{#contact}
-
+###  Contact
 Email: rajabia@oregonstate.edu
 
 Linkedin: www.linkedin.com/in/Arezoo-Rajabi
