@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.summary       = 'Minimal is a Jekyll theme for GitHub Pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
-    f.match(%r{^((_sass|_layout)/|(README)((\.(txt|md|markdown)|$)))}i)
+    f.match(%r{^((jekyll-theme-minimal.gemspec)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
   s.platform = Gem::Platform::RUBY
