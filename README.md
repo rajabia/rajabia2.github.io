@@ -1,7 +1,10 @@
 
 
-### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) |[Projects](/Publications/projects.html)| [CV](/CV.pdf)
+### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) |[CV](/CV.pdf)
 ----------------------------------------------------------------------------------------------------------------------------------
+### Arezoo Rajabi
+### PhD Candidtate in computer science
+### Oregon Satate University
 
 ### Biography
 
