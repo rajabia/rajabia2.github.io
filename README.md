@@ -21,8 +21,7 @@ I’ve received my Bachelors and Masters degrees in Computer Science from Sharif
 
 
 ### News
-* Attending [10th Montréal Industrial Problem Solving](http://www.crm.umontreal.ca/industrialprob2020/) Workshop Desjardins Group
-
+* Attended [10th Montréal Industrial Problem Solving](http://www.crm.umontreal.ca/industrialprob2020/) Workshop and worked on Data Anonymization and Synthesis project (Desjardins Group). The report will be available soon.
 * First place winner at Grad show case poster presentation, ”Towards Dependable Deep CNNs with Out-distribution Learning ” 2018
 * CREDC summer school student scholarship 2017 
 * GREPSECIII Workshop and IEEE Symposium on Security and Privacy student travel award 2017 
