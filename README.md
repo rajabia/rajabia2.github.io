@@ -5,7 +5,7 @@
 
 ### Biography
 
-I’ve received my Bachelor and Master degrees in Computer Science from Sharif University of Technology, Tehran, Iran. I am a PhD candidate at Oregon State University.  My research interests are:
+I’ve received my Bachelors and Masters degrees in Computer Science from Sharif University of Technology, Tehran, Iran. I am a PhD candidate at Oregon State University.  My research interests are:
 * Image privacy in image sharing platforms
 * Deep learning and robust models in machine learning
 * Fault tolerance algorithms
