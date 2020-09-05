@@ -1,5 +1,5 @@
 
-#### [Academic Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Coursework Projects](#coursework-projects) | [Hobby Projects](#hobby-projects)
+###### [Academic Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Coursework Projects](#coursework-projects) | [Hobby Projects](#hobby-projects)
 
 ### Academic Research Projects
 
