@@ -1,5 +1,5 @@
 
-### [Education](README.md #education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Project](project.md) | [CV](/CV.pdf) 
+### [Home](README.md)| [Publications](/Publications/papers.html) | [CV](/CV.pdf) 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Academic Projects
