@@ -1,5 +1,5 @@
 
-### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Project](project.md) | [CV](/CV.pdf) 
+### [Education](README.md #education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Project](project.md) | [CV](/CV.pdf) 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Academic Projects
@@ -13,7 +13,8 @@ In this project, we  proposed two practical adversarial perturbation approaches 
 * **Robust Convolutional Neural Networks**
 
 
-* **Complex Netwok Analysis**
+* **Complex Netwok Analysis**\
+
   *Local Community Detection  in Complex Networks and Sampling form Social Networks*
   
   *Social Networks Topology Inference Using Diffusion Information*
@@ -24,6 +25,7 @@ Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Al
 
 ### Industrial Project
 
-**Data anonymization and synthesis (problem submitted by Desjardins** Issues surrounding the protection of personal data are garnering more and more attention in society. Machine learning requires big data as well as granular data: thus it involves challenges, especially the protection of personal data and the transformation of data so that they cannot be traced to individuals. In this project, we investigated  practices for anonymizing or synthesizing data that allows retain as many "original data" features as possible  which is required to develop good predictive models.
+* **Data anonymization and synthesis (problem submitted by Desjardins** \
+Issues surrounding the protection of personal data are garnering more and more attention in society. Machine learning requires big data as well as granular data: thus it involves challenges, especially the protection of personal data and the transformation of data so that they cannot be traced to individuals. In this project, we investigated  practices for anonymizing or synthesizing data that allows retain as many "original data" features as possible  which is required to develop good predictive models.
 
 ### Hobby Projects
