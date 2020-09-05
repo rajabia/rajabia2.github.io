@@ -2,12 +2,12 @@
 ### [Home](README.md)| [Publications](/Publications/papers.html) | [CV](/CV.pdf) 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-### Please find quick links for my projects belo:
+### Please find quick links for my projects below:
 
-* ## [Academic Projects](#academic projects)
-* ## [Industrial Project](#inducstrial project)
-* ## [Course Projects](#course projects)
-* ## [Hobby Projects](#hobby projects)
+* ## [Academic Projects](#academicprojects)
+* ## [Industrial Project](#inducstrialproject)
+* ## [Course Projects](#courseprojects)
+* ## [Hobby Projects](#hobbyprojects)
    
 ### Academic Projects
 
