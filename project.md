@@ -30,7 +30,7 @@ In this project, we  proposed two practical adversarial perturbation approaches 
 
 * **Power Systems Cyberbersecurity (2016-2019)** 
 
-   - * False Data Tolerance Mechanisms for Distributed Mode Estimation:* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect  oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attack. In this project, we proposed  two resiliency mechanisms for S-ADMM and D-ADMM that have been published in IEEE SmartGridComm and ICSS. This project was funded by Cyber Resilient Energy Delivery Consortium (CREDC) and National Science Foundation (NSF). [ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
+   - *False Data Tolerance Mechanisms for Distributed Mode Estimation:* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect  oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attack. In this project, we proposed  two resiliency mechanisms for S-ADMM and D-ADMM that have been published in IEEE SmartGridComm and ICSS. This project was funded by Cyber Resilient Energy Delivery Consortium (CREDC) and National Science Foundation (NSF). [ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
 
 
 ### Industrial Project
@@ -48,6 +48,9 @@ Issues surrounding the protection of personal data are garnering more and more a
 * **Frequency Estimation in Single-Frequency Complex Tone Problem from Limited Number of Noisy Observations** In this project, we investigated frequency estimation in single-frequency complex tone problem from limited number of noisy observations. To estimate this parameter, we used two different estimators and compare them with each other. Also, we derived the Carmer-Rao lower bounds for all parameters of multiple-frequency complex tone problem. Also, we evaluate performance of each estimator in different noise level. As shown, maximum likelihood estimator works well for noise with small variance. For noise with large variance, the empirical mean square error of both estimators are high. [Report](./projects/Frequency_Estimation.pdf)
 
 * **Movie Recommender System** Today, recommender systems are one of the main part of e-commerce business. These systems offer right items/products to right costumers. These systems try to find similar items to ones that the target costumer was interested before based on the given rates to them. While, because of high number of items and users, the search space is huge. In addition, the similar rates for two items can not guarantee that these items are similar in real worlds. In this project, we proposed a method to decrease search space. Moreover, we showed that we can not forecast the users’ interest for items that were rated by few users. [Report](projects/RecommenderSystem.pdf)
+
+* **Dental Growth Rates Approximation** In this project, we tended to investigate the dental growth rate for 27 kids and compare the rates for girls and boys. In this regard, I used 3 different models to describe the dental growth rate. At the end, I used these models to predict jaw's size for random selected samples. [Report](./DentalGrowth.pdf)
+
 
 
 
