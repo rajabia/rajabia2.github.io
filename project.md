@@ -45,4 +45,11 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 * **Knowledge Discovery in Relational Databases (CS 540)** The main objective of this project was to learn new concept from structured dataset such as relational database. We studied the behavior of three relational machine learning algorithm including First Order Inductive Logic (FOIL) , Top-Down Inductive Decision Tree (TILDE) and Mixture Model Membership. The results show that the TILDE algorithm performs better than FOIL algorithm, etc. [Report](./projects/ProjectProposalCS540.pdf), [Slides](./projects/CS540Presentation.pdf)
 
+* **Frequency Estimation in Single-Frequency Complex Tone Problem from Limited Number of Noisy Observations** In this project, we investigated frequency estimation in single-frequency complex tone problem from limited number of noisy observations. To estimate this parameter, we used two different estimators and compare them with each other. Also, we derived the Carmer-Rao lower bounds for all parameters of multiple-frequency complex tone problem. Also, we evaluate performance of each estimator in different noise level. As shown, maximum likelihood estimator works well for noise with small variance. For noise with large variance, the empirical mean square error of both estimators are high. [Report](./projects/Frequency_Estimation.pdf)
+
+* **Movie Recommender System** Today, recommender systems are one of the main part of e-commerce business. These systems offer right items/products to right costumers. These systems try to find similar items to ones that the target costumer was interested before based on the given rates to them. While, because of high number of items and users, the search space is huge. In addition, the similar rates for two items can not guarantee that these items are similar in real worlds. In this project, we proposed a method to decrease search space. Moreover, we showed that we can not forecast the users’ interest for items that were rated by few users. [Report](projects/RecommenderSystem.pdf)
+
+
+
+
 
