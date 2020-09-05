@@ -1,14 +1,8 @@
 
-### [Home](README.md)| [Publications](/Publications/papers.html) | [CV](/CV.pdf) 
+### [Academic Projects](#academicprojects) | [Industrial Project](#inducstrialproject) | [Course Projects](#courseprojects) | [Hobby Projects](#hobbyprojects)
 ----------------------------------------------------------------------------------------------------------------------------------
 
-### Please find quick links for my projects below:
 
-* ## [Academic Projects](#academicprojects)
-* ## [Industrial Project](#inducstrialproject)
-* ## [Course Projects](#courseprojects)
-* ## [Hobby Projects](#hobbyprojects)
-   
 ### Academic Projects
 
 * **Image Privacy (2019-Present)** 
