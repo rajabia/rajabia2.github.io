@@ -38,7 +38,7 @@ In this project, we  proposed two practical adversarial perturbation approaches 
 * **Data Anonymization and Synthesis (problem submitted by Desjardins- 2020)** \
 Issues surrounding the protection of personal data are garnering more and more attention in society. Machine learning requires big data as well as granular data: thus it involves challenges, especially the protection of personal data and the transformation of data so that they cannot be traced to individuals. In this project, we investigated  practices for anonymizing or synthesizing data that allows retain as many "original data" features as possible  which is required to develop good predictive models. 
 
-### Hobby Projects
+
 
 
 ### Coursework Projects
@@ -53,6 +53,13 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 
 
+### Hobby Projects
 
+* ** Practing Network Security Problems and Solutions** To deepen my knowledge in security analysis and real-world challenges I implemeted [SEED](https://seedsecuritylabs.org/Labs_16.04/Networking/) labs of:
+   - *DNS Rebinding attacks: The objective of this lab is two-fold: (1) demonstrate how the DNS rebinding attack works, and (2) help students gain the first-hand experience on how to use the DNS rebinding technique to attack IoT devices.  However, due to firewalls and browser's sandbox protection, it is difficult for attackers to interact with the IoT servers. The goal of the attack in this lab is to use the DNS rebinding technique to circumvent these protections, so attackers can set the temperature value of the thermostat to a dangerously high value. 
+   - *Cross-site Request Forgery:*  A CSRF attack involves a victim user, a trusted site, and a malicious site. The victim user holds an active session with a trusted site while visiting a malicious site. The malicious site injects an HTTP request for the trusted site into the victim user session, causing damages.
+In this lab, an adversary will be attacking a social networking web application using the CSRF attack.
+
+- *PKI Lab:* Public key cryptography is the foundation of today's secure communication, but it is subject to man-in-the-middle attacks when one side of communication sends its public key to the other side. The fundamental problem is that there is no easy way to verify the ownership of a public key, i.e., given a public key and its claimed owner information, how do we ensure that the public key is indeed owned by the claimed owner? The Public Key Infrastructure (PKI) is a practical solution to this problem. By doing the tasks in this lab, one should be able to gain a better understanding of how PKI works, how PKI is used to protect the Web, and how Man-in-the-middle attacks can be defeated by PKI. 
 
 
