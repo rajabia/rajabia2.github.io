@@ -24,7 +24,7 @@ In this project, we  proposed two practical adversarial perturbation approaches 
 
 * **Complex Netwok Analysis (2010-2013)**
 
-  - *Local Community Detection  in Complex Networks and Sampling form Social Networks*   [Chaos Paper](http://coinlab.ut.ac.ir/documents/17321997/30927624/Sampling%20from%20Complex%20Networks%20with%20High%20Community%20Structures.pdf), [Local Community Detection Report] (./projects/ArezooRajabi.LCD-RW.pdf)
+  - *Local Community Detection  in Complex Networks and Sampling form Social Networks*   [Chaos Paper](http://coinlab.ut.ac.ir/documents/17321997/30927624/Sampling%20from%20Complex%20Networks%20with%20High%20Community%20Structures.pdf), [Report] (./projects/ArezooRajabi.LCD-RW.pdf)
   
   - *Social Networks Topology Inference Using Diffusion Information* 
 
