@@ -9,7 +9,7 @@ I’ve received my Bachelors and Masters degrees in Computer Science from Sharif
 * Data and Image Privacy
 * Data Science
 * Deep Learning and Machine Learning
-* Complex Network Analysis
+* Complex Networks Analysis
 
 
 
