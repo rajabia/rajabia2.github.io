@@ -6,15 +6,17 @@
 ### Biography
 
 I’ve received my Bachelors and Masters degrees in Computer Science from Sharif University of Technology, Tehran, Iran. I am a PhD candidate at Oregon State University.  My research interests are:
-* Image privacy in image sharing platforms
-* Deep learning and robust models in machine learning
-* Fault tolerance algorithms
+* Data and Image Privacy
+* Data Science
+* Deep Learning and Machine Learning
+* Complex Network Analysis
+
 
 
 ### Education
-* Ph.D. Candidate in Computer Science (2014 – Present)
-  Oregon State University, Corvallis, Oregon, USA.
-  Thesis: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations} 
+* Ph.D. Candidate in Computer Science (2014 – Present)\
+  Oregon State University, Corvallis, Oregon, USA.\
+  Thesis: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations} \
   
 * Master of Science (M.S.) in Computer Engineering (Software engineering) (2011 – 2013)
   Sharif University of Technology, Department of Computer Engineering
