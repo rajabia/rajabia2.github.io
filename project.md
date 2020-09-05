@@ -2,9 +2,9 @@
 ### [Home](README.md)| [Publications](/Publications/papers.html) | [CV](/CV.pdf) 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-### Academic Projects
+> ### Academic Projects
 
-* **Image Privacy (2019-Present)** \
+>>* **Image Privacy (2019-Present)** \
    -*Practical Adversarial Perturbation for Image Privacy:* Image hosting platforms are a popular way to store and share images with family members and friends. 
 However, such platforms typically have full access to images raising privacy concerns.
 These concerns are further exacerbated with the advent of Convolutional Neural Networks (CNNs) that can be trained on available images to automatically detect and recognize faces with high accuracy.
