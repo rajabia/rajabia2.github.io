@@ -10,10 +10,14 @@ However, such platforms typically have full access to images raising privacy con
 These concerns are further exacerbated with the advent of Convolutional Neural Networks (CNNs) that can be trained on available images to automatically detect and recognize faces with high accuracy.
 In this project, we  proposed two practical adversarial perturbation approaches for image privacy. Our paper for image privacy got accepted in Privacy Enhancing Technology symposium (PETs).
 
-* **Robust Convolutional Neural Networks**
+* **Robust Convolutional Neural Networks (CNNs)**
 
+   - Detect and Reject Adversarial Examples
+   
+   - Out-distribution Ranking for Leaning Robust CNNs\
+   We proposed  learning Augmented CNNs on out-distribution samples as a simple and effective solution rejecting thise samples. However adding all posible OOD set to training set is not possible. In other words, a critical question remains unanswered in this work: how to select an OOD set, among the available OOD sets, for training such CNNs that induces high detection rates on unseen OOD sets? We address this pivotal question through the use of Augmented-CNN (A-CNN) involving an explicit rejection option. We first provide a formal definition to precisely differentiate OOD sets for the purpose of selection. As using this definition incurs a huge computational cost, we propose novel metrics, as a computationally efficient tool, for characterizing OOD sets in order to select the proper one. 
 
-* **Complex Netwok Analysis**\
+* **Complex Netwok Analysis**
 
   *Local Community Detection  in Complex Networks and Sampling form Social Networks*
   
