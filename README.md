@@ -16,7 +16,7 @@ I’ve received my Bachelors and Masters degrees in Computer Science from Sharif
 ### Education
 * **Ph.D. Candidate in Computer Science (2014 – Present)**\
   Oregon State University, Corvallis, Oregon, USA.\
-  *Thesis: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations}* 
+  *Thesis: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations* 
   
 * **Master of Science (M.S.) in Computer Engineering (Software engineering) (2011 – 2013)** \
   Sharif University of Technology, Department of Computer Engineering \
