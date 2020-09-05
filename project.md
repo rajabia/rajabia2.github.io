@@ -10,7 +10,7 @@ These concerns are further exacerbated with the advent of Convolutional Neural N
 In this project, we  proposed two practical adversarial perturbation approaches for image privacy. Our paper for image privacy got accepted in Privacy Enhancing Technology symposium (PETs).
 
 * **Robust Convolutional Neural Networks (CNNs) (2017-2020)**
-
+   - <span style="color:blue">some *This is Blue italic.* text</span>
    - *Detect and Reject Adversarial Examples:* Detection and rejection of adversarial examples in security sensitive and safety-critical systems using deep CNNs is essential. In this projecr, We aimed to detect and reject or classify adversarial examples correctly. To this end we proposed three methods:
    
   
@@ -30,7 +30,7 @@ In this project, we  proposed two practical adversarial perturbation approaches 
 
 * **Power Systems Cyberbersecurity (2016-2019)** 
 
-   - * <font color='green'>False Data Tolerance Mechanisms for Distributed Mode Estimation:</font>* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect  oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attack. In this project, we proposed  two resiliency mechanisms for S-ADMM and D-ADMM that have been published in IEEE SmartGridComm and ICSS. This project was funded by Cyber Resilient Energy Delivery Consortium (CREDC) and National Science Foundation (NSF). [ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
+   - * False Data Tolerance Mechanisms for Distributed Mode Estimation:* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect  oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attack. In this project, we proposed  two resiliency mechanisms for S-ADMM and D-ADMM that have been published in IEEE SmartGridComm and ICSS. This project was funded by Cyber Resilient Energy Delivery Consortium (CREDC) and National Science Foundation (NSF). [ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
 
 
 ### Industrial Project
