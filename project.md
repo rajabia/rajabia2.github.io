@@ -1,5 +1,5 @@
 
-## [Academic Reseach Projects](#academicprojects) | [Industrial Project](#inducstrialproject) | [Course Projects](#courseprojects) | [Hobby Projects](#hobbyprojects)
+# [Academic Reseach Projects](#academicprojects) | [Industrial Project](#inducstrialproject) | [Course Projects](#courseprojects) | [Hobby Projects](#hobbyprojects)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
