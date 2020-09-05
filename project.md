@@ -42,3 +42,5 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 
 ### Coursework Projects
+
+* **Knowledge Discovery in Relational Databases (CS 540)** The main objective of this project was to learn new concept from structured dataset such as relational database. We studied the behavior of three relational machine learning algorithm including First Order Inductive Logic (FOIL) , Top-Down Inductive Decision Tree (TILDE) and Mixture Model Membership. The results show that the TILDE algorithm performs better than FOIL algorithm, etc. [Report](./projects/ProjectProposalCS540.pdf) [Slides](./projects/CS540Presentation.pds)
