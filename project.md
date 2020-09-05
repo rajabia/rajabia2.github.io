@@ -2,9 +2,10 @@
 ### [Home](README.md)| [Publications](/Publications/papers.html) | [CV](/CV.pdf) 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-> ### Academic Projects
+<ol>
+### Academic Projects
 
->>* **Image Privacy (2019-Present)** \
+* **Image Privacy (2019-Present)** \
    -*Practical Adversarial Perturbation for Image Privacy:* Image hosting platforms are a popular way to store and share images with family members and friends. 
 However, such platforms typically have full access to images raising privacy concerns.
 These concerns are further exacerbated with the advent of Convolutional Neural Networks (CNNs) that can be trained on available images to automatically detect and recognize faces with high accuracy.
@@ -34,3 +35,5 @@ Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Al
 Issues surrounding the protection of personal data are garnering more and more attention in society. Machine learning requires big data as well as granular data: thus it involves challenges, especially the protection of personal data and the transformation of data so that they cannot be traced to individuals. In this project, we investigated  practices for anonymizing or synthesizing data that allows retain as many "original data" features as possible  which is required to develop good predictive models.
 
 ### Hobby Projects
+
+</ol>
