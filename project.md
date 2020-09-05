@@ -1,5 +1,5 @@
 
-###### [Academic Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Coursework Projects](#coursework-projects) | [Hobby Projects](#hobby-projects)
+##### [Academic Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Coursework Projects](#coursework-projects) | [Hobby Projects](#hobby-projects)
 
 ### Academic Research Projects
 
@@ -19,7 +19,7 @@ In this project, we  proposed two practical adversarial perturbation approaches 
       2. Learning augment CNNs with out-distribution learning in order to reduce misclassification rate by rejecting adversarial examples. We empirically show that our augmented CNNs can either reject or classify correctly most adversarial examples generated using well-known methods (> 95% for MNIST and> 75% for CIFAR-10 on average). Furthermore, we achieve this without requiring to train using any specific type of adversarial examples and without sacrificing the accuracy of models on clean samples significantly (< 4%). [Paper](https://arxiv.org/pdf/1804.08794)
      
    
-   - *Out-distribution Ranking for Leaning Robust CNNs:*  We proposed  learning Augmented CNNs on out-distribution samples as a simple and effective solution rejecting thise samples. However adding all posible OOD set to training set is not possible. In other words, a critical question remains unanswered in this work: how to select an OOD set, among the available OOD sets, for training such CNNs that induces high detection rates on unseen OOD sets? We address this pivotal question through the use of Augmented-CNN (A-CNN) involving an explicit rejection option. We first provide a formal definition to precisely differentiate OOD sets for the purpose of selection. As using this definition incurs a huge computational cost, we propose novel metrics, as a computationally efficient tool, for characterizing OOD sets in order to select the proper one. [Paper] (https://arxiv.org/pdf/1910.08650)
+   - *Out-distribution Ranking for Leaning Robust CNNs:*  We proposed  learning Augmented CNNs on out-distribution samples as a simple and effective solution rejecting thise samples. However adding all posible OOD set to training set is not possible. In other words, a critical question remains unanswered in this work: how to select an OOD set, among the available OOD sets, for training such CNNs that induces high detection rates on unseen OOD sets? We address this pivotal question through the use of Augmented-CNN (A-CNN) involving an explicit rejection option. We first provide a formal definition to precisely differentiate OOD sets for the purpose of selection. As using this definition incurs a huge computational cost, we propose novel metrics, as a computationally efficient tool, for characterizing OOD sets in order to select the proper one. [Paper](https://arxiv.org/pdf/1910.08650)
 
 
 * **Complex Netwok Analysis (2010-2013)**
