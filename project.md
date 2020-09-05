@@ -1,9 +1,6 @@
 
-# [Academic Reseach Projects](#academicprojects) | [Industrial Project](#inducstrialproject) | [Course Projects](#courseprojects) | [Hobby Projects](#hobbyprojects)
-----------------------------------------------------------------------------------------------------------------------------------
+#### [Academic Reseach Projects](#academicprojects) | [Industrial Project](#inducstrialproject) | [Course Projects](#courseprojects) | [Hobby Projects](#hobbyprojects)
 
-
-### Academic Reseach Projects
 
 * **Image Privacy (2019-Present)** 
    - *Practical Adversarial Perturbation for Image Privacy:* Image hosting platforms are a popular way to store and share images with family members and friends. 
