@@ -1,5 +1,5 @@
 
-#### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Coursework Projects](#coursework-projects) | [Hobby Projects](#hobby-projects)
+#### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Courses' Projects](#coursework-projects) | [Self-Practice](#hobby-projects)
 
 ### Academic Research Projects
 
@@ -23,8 +23,11 @@ In this project, we  proposed two practical adversarial perturbation approaches 
    
    - *Out-distribution Ranking for Leaning Robust CNNs:*  We proposed  learning Augmented CNNs on out-distribution samples as a simple and effective solution rejecting thise samples. But, a critical question remains unanswered in this work: how to select an OOD set, among the available OOD sets, for training such CNNs that induces high detection rates on unseen OOD sets? In this project, we proposes novel metrics, as a computationally efficient tool, for characterizing OOD sets in order to select the proper one. [Paper](https://arxiv.org/pdf/1910.08650)
 
+* **Power Systems Cyberbersecurity (2016-2019)** 
 
-* **Complex Netwok Analysis (2010-2013)**
+   - *False Data Tolerance Mechanisms for Distributed Mode Estimation:* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect  oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attack. In this project, we proposed  two resiliency mechanisms for S-ADMM and D-ADMM that have been published in IEEE SmartGridComm and ICSS. This project was funded by Cyber Resilient Energy Delivery Consortium (CREDC) and National Science Foundation (NSF). [ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
+
+* **Complex Netwoks Analysis (2010-2013)**
 
   - *Sampling form Complex Networks*  We proposed a novel link-tracing sampling algorithm, based on the concepts from PageRank vectors, to sample from networks with high community structures. Our method has two phases;  [Chaos Paper](http://coinlab.ut.ac.ir/documents/17321997/30927624/Sampling%20from%20Complex%20Networks%20with%20High%20Community%20Structures.pdf), [Report](./projects/ArezooRajabi.LCD-RW.pdf)
   
@@ -32,14 +35,12 @@ In this project, we  proposed two practical adversarial perturbation approaches 
   
   - *Social Networks Topology Inference Using Diffusion Information*  In this project, we proposed a novel algorithm, called DANI, to infer the underlying network structure while preserving its properties by using the diffusion information.  [Manuscript](https://arxiv.org/pdf/1706.00941)
 
-* **Power Systems Cyberbersecurity (2016-2019)** 
 
-   - *False Data Tolerance Mechanisms for Distributed Mode Estimation:* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect  oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attack. In this project, we proposed  two resiliency mechanisms for S-ADMM and D-ADMM that have been published in IEEE SmartGridComm and ICSS. This project was funded by Cyber Resilient Energy Delivery Consortium (CREDC) and National Science Foundation (NSF). [ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
 
 
 ### Industrial Project
 
-* **Data Anonymization and Synthesis (problem submitted by Desjardins- 2020)** \
+* **Data Anonymization and Synthesis (problem submitted by Desjardins in [TMIPSW](http://www.crm.umontreal.ca/industrialprob2020/problems/problems-2020/)- 2020)** \
 Issues surrounding the protection of personal data are garnering more and more attention in society. Machine learning requires big data as well as granular data: thus it involves challenges, especially the protection of personal data and the transformation of data so that they cannot be traced to individuals. In this project, we investigated  practices for anonymizing or synthesizing data that allows retain as many "original data" features as possible  which is required to develop good predictive models. 
 
 
@@ -57,7 +58,7 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 
 
-### Hobby Projects
+### Self-practice Projects
 
 * **Practing Networks' Security Problems and Solutions** To deepen my knowledge in security analysis and real-world challenges I implemeted [SEED](https://seedsecuritylabs.org/Labs_16.04/Networking/) labs of:
    - *DNS Rebinding attacks:* Due to firewalls and browser's sandbox protection, it is difficult for attackers to interact with the IoT servers. The goal of the attack in this lab is to use the DNS rebinding technique to circumvent these protections, so attackers can set the temperature value of the thermostat to a dangerously high value. 
