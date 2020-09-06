@@ -48,18 +48,18 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 ### Coursework Projects
 
-* **Knowledge Discovery in Relational Databases (CS 540)** The main objective of this project was to learn new concept from structured dataset such as relational database. We studied the behavior of three relational machine learning algorithm including First Order Inductive Logic (FOIL) , Top-Down Inductive Decision Tree (TILDE) and Mixture Model Membership. The results showed that the TILDE algorithm performs better than FOIL algorithm. [Report](./projects/ProjectProposalCS540.pdf), [Slides](./projects/CS540Presentation.pdf)
+* **Knowledge Discovery in Relational Databases(CS540)** The main objective of this project was to learn new concept from structured dataset such as relational database. We studied the behavior of three relational machine learning algorithm including First Order Inductive Logic (FOIL) , Top-Down Inductive Decision Tree (TILDE) and Mixture Model Membership. The results showed that the TILDE algorithm performs better than FOIL algorithm. [Report](./projects/ProjectProposalCS540.pdf), [Slides](./projects/CS540Presentation.pdf)
 
-* **Frequency Estimation in Single-Frequency Complex Tone Problem from Limited Number of Noisy Observations** In this project, we investigated frequency estimation in single-frequency complex tone problem from limited number of noisy observations. We estimate the frequency with two different estimators ans  derived the Carmer-Rao lower bounds for all parameters of multiple-frequency complex tone problem. [Report](./projects/Frequency_Estimation.pdf)
-
-
-* **Dental Growth Rates Approximation** In this project, we tended to investigate the dental growth rate for 27 kids and compare the rates for girls and boys. In this regard, I used 3 different models to describe the dental growth rate. At the end, I used these models to predict jaw's size for random selected samples. [Report](projects/DentalGrowth.pdf)
+* **Frequency Estimation in Single-Frequency Complex Tone Problem from Limited Number of Noisy Observations(ECE565)** In this project, we investigated frequency estimation in single-frequency complex tone problem from limited number of noisy observations. We estimate the frequency with two different estimators ans  derived the Carmer-Rao lower bounds for all parameters of multiple-frequency complex tone problem. [Report](./projects/Frequency_Estimation.pdf)
 
 
+* **Dental Growth Rates Approximation(ST559)** In this project, we tended to investigate the dental growth rate for 27 kids and compare the rates for girls and boys. In this regard, I used 3 different models to describe the dental growth rate. At the end, I used these models to predict jaw's size for random selected samples. [Report](projects/DentalGrowth.pdf)
 
-### Self-practice Projects
 
-* **Practing Networks Security Problems and Solutions** To deepen my knowledge in security analysis and real-world challenges I implemeted [SEED](https://seedsecuritylabs.org/Labs_16.04/Networking/) labs of:
+
+### Self-Practice Projects
+
+* **Practicing Networks Security Problems and Solutions** To deepen my knowledge in security analysis and real-world challenges I implemeted [SEED](https://seedsecuritylabs.org/Labs_16.04/Networking/) labs of:
    - *DNS Rebinding attacks:* The goal of the attack in this lab is to use the DNS rebinding technique to circumvent these protections, so attackers can set the temperature value of the thermostat to a dangerously high value. 
    
    - *Cross-site Request Forgery:*  In this lab, an adversary will be attacking a social networking web application using the CSRF attack in which a malicious site  injects an HTTP request for the trusted site .
