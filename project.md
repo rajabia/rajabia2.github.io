@@ -26,9 +26,11 @@ In this project, we  proposed two practical adversarial perturbation approaches 
 
 * **Complex Netwok Analysis (2010-2013)**
 
-  - *Local Community Detection  in Complex Networks and Sampling form Social Networks*   [Chaos Paper](http://coinlab.ut.ac.ir/documents/17321997/30927624/Sampling%20from%20Complex%20Networks%20with%20High%20Community%20Structures.pdf), [Report](./projects/ArezooRajabi.LCD-RW.pdf)
+  - *Sampling form Complex Networks*  We proposed a novel link-tracing sampling algorithm, based on the concepts from PageRank vectors, to sample from networks with high community structures. Our method has two phases;  [Chaos Paper](http://coinlab.ut.ac.ir/documents/17321997/30927624/Sampling%20from%20Complex%20Networks%20with%20High%20Community%20Structures.pdf), [Report](./projects/ArezooRajabi.LCD-RW.pdf)
   
-  - *Social Networks Topology Inference Using Diffusion Information*  [Manuscript](https://arxiv.org/pdf/1706.00941)
+  - *Local Community Detection  in Complex Networks*: In this project, we introduced a novel local community detection algorithm based on the random walk probability distribution. [Report](./projects/ArezooRajabi.LCD-RW.pdf)
+  
+  - *Social Networks Topology Inference Using Diffusion Information*  In this project, we proposed a novel algorithm, called DANI, to infer the underlying network structure while preserving its properties by using the diffusion information.  [Manuscript](https://arxiv.org/pdf/1706.00941)
 
 * **Power Systems Cyberbersecurity (2016-2019)** 
 
@@ -47,7 +49,7 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 * **Knowledge Discovery in Relational Databases (CS 540)** The main objective of this project was to learn new concept from structured dataset such as relational database. We studied the behavior of three relational machine learning algorithm including First Order Inductive Logic (FOIL) , Top-Down Inductive Decision Tree (TILDE) and Mixture Model Membership. The results showed that the TILDE algorithm performs better than FOIL algorithm. [Report](./projects/ProjectProposalCS540.pdf), [Slides](./projects/CS540Presentation.pdf)
 
-* **Frequency Estimation in Single-Frequency Complex Tone Problem from Limited Number of Noisy Observations** In this project, we investigated frequency estimation in single-frequency complex tone problem from limited number of noisy observations. To estimate this parameter, we used two different estimators and compare them with each other. Also, we derived the Carmer-Rao lower bounds for all parameters of multiple-frequency complex tone problem. [Report](./projects/Frequency_Estimation.pdf)
+* **Frequency Estimation in Single-Frequency Complex Tone Problem from Limited Number of Noisy Observations** In this project, we investigated frequency estimation in single-frequency complex tone problem from limited number of noisy observations. We estimate the frequency with two different estimators ans  derived the Carmer-Rao lower bounds for all parameters of multiple-frequency complex tone problem. [Report](./projects/Frequency_Estimation.pdf)
 
 * **Movie Recommender System** Today, recommender systems are one of the main part of e-commerce business. These systems try to find similar items to ones that the target costumer was interested before based on the given rates to them. Besides of huge number of users an movies, the similar rates for two items can not guarantee that these items are similar in real-world. In this project, we proposed a method to decrease search space and demonstrated.[Report](projects/RecommenderSystem.pdf)
 
