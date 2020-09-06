@@ -1,6 +1,6 @@
 
 
-### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates](#certificates)
+### [Education](#education)| [News](#news)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates](#certificates)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Biography
@@ -37,7 +37,7 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
 * Data Science Methodology, Cognitive Class (An IBM Initiative)
 * Data Science Hands-On with Open Source Tools, Cognitive Class (An IBM Initiative)
 
-Please click [here](certificates.pdf) to see certificates documents
+Please click [here](certificates.pdf) to see certificates.
  
 
 
