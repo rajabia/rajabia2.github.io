@@ -1,5 +1,5 @@
 
-#### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Courses' Projects](#coursework-projects) | [Self-Practice](#hobby-projects)
+#### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Courses' Projects](#coursework-projects) | [Self-Practice](#self-practice-projects)
 
 ### Academic Research Projects
 
@@ -60,7 +60,7 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 ### Self-practice Projects
 
-* **Practing Networks' Security Problems and Solutions** To deepen my knowledge in security analysis and real-world challenges I implemeted [SEED](https://seedsecuritylabs.org/Labs_16.04/Networking/) labs of:
+* **Practing Networks Security Problems and Solutions** To deepen my knowledge in security analysis and real-world challenges I implemeted [SEED](https://seedsecuritylabs.org/Labs_16.04/Networking/) labs of:
    - *DNS Rebinding attacks:* Due to firewalls and browser's sandbox protection, it is difficult for attackers to interact with the IoT servers. The goal of the attack in this lab is to use the DNS rebinding technique to circumvent these protections, so attackers can set the temperature value of the thermostat to a dangerously high value. 
    
    - *Cross-site Request Forgery:*  A CSRF attack involves a victim user, a trusted site, and a malicious site. The victim user holds an active session with a trusted site while visiting a malicious site. The malicious site injects an HTTP request for the trusted site into the victim user session, causing damages.
