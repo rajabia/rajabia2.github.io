@@ -8,7 +8,7 @@
 I am PhD Candidate in Computer Science at Oregon State University (OSU). After studying Computer Science in most prestigious engineering school of Iran, Sharif University of Technology, where I earned my BS and MS degrees, I decided to embark on a challenging opportunity to study abroad. I successfully applied for PhD in the School of Electrical Engineering and Computer Science at OSU and joined the security group. My research interests are:
 
 * **Machine Learning & Deep Learning** 
-* **ata Science & Statistical Analysis** 
+* **Data Science & Statistical Analysis** 
 * **Data & Image Privacy** 
 * **Complex Networks Analysis & Graph Mining** 
 * **Cybersecurity** 
