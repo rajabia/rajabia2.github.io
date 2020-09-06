@@ -1,6 +1,6 @@
 
 
-### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Project](project.md) | [CV](./CV.pdf) 
+### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates] (./certificates.pdf)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Biography
@@ -29,7 +29,14 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
   
 
 
-
+### Certificates
+* Spark Fundamentals II,  Cognitive Class (An IBM Initiative)
+* Data Science Foundation - Level 2,  Cognitive Class (An IBM Initiative)
+* Spark MLlIB, Cognitive Class (An IBM Initiative)
+* Exploring Spark's GraphX, Cognitive Class (An IBM Initiative)
+* Data Science Methodology, Cognitive Class (An IBM Initiative)
+* Data Science Hands-On with Open Source Tools, Cognitive Class (An IBM Initiative)
+ 
 
 
 ### News
