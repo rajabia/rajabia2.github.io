@@ -1,6 +1,6 @@
 
 
-### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates] (./certificates.pdf)
+### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates](./certificates.pdf)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Biography
