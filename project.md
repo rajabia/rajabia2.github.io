@@ -18,7 +18,7 @@ In this project, we  proposed two practical adversarial perturbation approaches 
       
       2. Learning augment CNNs with out-distribution learning in order to reduce misclassification rate by rejecting adversarial examples. We empirically showed that augmented CNNs trained on few set of OOD set can either reject or classify correctly most adversarial examples generated using well-known methods [Paper](https://arxiv.org/pdf/1804.08794)
       
-      3.  Learning adversarial profiles for each class using only one adversarial attack generation technique. We then wrap a detector around the pre-trained CNN that applies the created adversarial profile to each input and uses the output to decide whether or not the input is legitimate.
+      3.  Learning adversarial profiles for each class using only one adversarial attack generation technique. We then wrap a detector around the pre-trained CNN that applies the created adversarial profile to each input and uses the output to decide whether or not the input is legitimate. [Paper](https://dependablesecureml.github.io/2019/program.html)
      
    
    - *Out-distribution Ranking for Leaning Robust CNNs:*  We proposed  learning Augmented CNNs on out-distribution samples as a simple and effective solution rejecting thise samples. But, a critical question remains unanswered in this work: how to select an OOD set, among the available OOD sets, for training such CNNs that induces high detection rates on unseen OOD sets? In this project, we proposes novel metrics, as a computationally efficient tool, for characterizing OOD sets in order to select the proper one. [Paper](https://arxiv.org/pdf/1910.08650)
