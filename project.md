@@ -1,5 +1,5 @@
 
-##### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Coursework Projects](#coursework-projects) | [Hobby Projects](#hobby-projects)
+#### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Coursework Projects](#coursework-projects) | [Hobby Projects](#hobby-projects)
 
 ### Academic Research Projects
 
@@ -17,6 +17,7 @@ In this project, we  proposed two practical adversarial perturbation approaches 
       1. Using influence of diversity in the ensemble of CNNs on the detection of black-box adversarial instances and hardening the generation of white-box adversarial attacks. To this end, we proposed an ensemble of diverse specialized CNNs along with a simple voting mechanism. The diversity in this ensemble creates a gap between the predictive confidences of adversaries and those of clean samples, making adversaries detectable. [Paper](https://arxiv.org/pdf/2005.08321)
       
       2. Learning augment CNNs with out-distribution learning in order to reduce misclassification rate by rejecting adversarial examples. We empirically show that our augmented CNNs can either reject or classify correctly most adversarial examples generated using well-known methods (> 95% for MNIST and> 75% for CIFAR-10 on average). Furthermore, we achieve this without requiring to train using any specific type of adversarial examples and without sacrificing the accuracy of models on clean samples significantly (< 4%). [Paper](https://arxiv.org/pdf/1804.08794)
+      
       3.  Learning adversarial profiles for each class using only one adversarial attack generation technique. We then wrap a detector around the pre-trained CNN that applies the created adversarial profile to each input and uses the output to decide whether or not the input is legitimate.
      
    
@@ -50,7 +51,7 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 * **Movie Recommender System** Today, recommender systems are one of the main part of e-commerce business. These systems offer right items/products to right costumers. These systems try to find similar items to ones that the target costumer was interested before based on the given rates to them. While, because of high number of items and users, the search space is huge. In addition, the similar rates for two items can not guarantee that these items are similar in real worlds. In this project, we proposed a method to decrease search space. Moreover, we showed that we can not forecast the users’ interest for items that were rated by few users. [Report](projects/RecommenderSystem.pdf)
 
-* **Dental Growth Rates Approximation** In this project, we tended to investigate the dental growth rate for 27 kids and compare the rates for girls and boys. In this regard, I used 3 different models to describe the dental growth rate. At the end, I used these models to predict jaw's size for random selected samples. [Report](./DentalGrowth.pdf)
+* **Dental Growth Rates Approximation** In this project, we tended to investigate the dental growth rate for 27 kids and compare the rates for girls and boys. In this regard, I used 3 different models to describe the dental growth rate. At the end, I used these models to predict jaw's size for random selected samples. [Report](projects/DentalGrowth.pdf)
 
 
 
@@ -62,5 +63,6 @@ Issues surrounding the protection of personal data are garnering more and more a
 In this lab, an adversary will be attacking a social networking web application using the CSRF attack.
 
    - *PKI Lab:* Public key cryptography is the foundation of today's secure communication, but it is subject to man-in-the-middle attacks when one side of communication sends its public key to the other side. The fundamental problem is that there is no easy way to verify the ownership of a public key, i.e., given a public key and its claimed owner information, how do we ensure that the public key is indeed owned by the claimed owner? The Public Key Infrastructure (PKI) is a practical solution to this problem. By doing the tasks in this lab, one should be able to gain a better understanding of how PKI works, how PKI is used to protect the Web, and how Man-in-the-middle attacks can be defeated by PKI. 
+
 
 
