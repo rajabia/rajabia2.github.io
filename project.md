@@ -1,5 +1,5 @@
 
-#### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Courses' Projects](#coursework-projects) | [Self-Practice](#self-practice-projects)
+#### [Research Projects](#academic-research-projects) | [Industrial Project](#industrial-project) | [Course Projects](#coursework-projects) | [Self-Practice](#self-practice-projects)
 
 ### Academic Research Projects
 
