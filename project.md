@@ -67,4 +67,4 @@ Issues surrounding the protection of personal data are garnering more and more a
    - *PKI Lab:* The Public Key Infrastructure (PKI) is a practical solution to secure communication. By doing the tasks in this lab, one can gain a better understanding of how PKI works, how PKI is used to protect the Web, and how Man-in-the-middle attacks can be defeated by PKI. 
 
 
-* **Analyzing Chicago Crime Characteristics Towards Understanding its Side-Effects and Dependencies:** Prevention and reduction of crimes have become the priority of governments. Therefore, in this project, I aim to analyze crime characteristics, dependencies and consequences. Also, I plan to define metrics denoting the safety level of each area which can be used for business investment purposes as well. [Report](./projects/crimeproject.pdf)
+* **Analyzing Chicago Crime Characteristics Towards Understanding its Side-Effects and Dependencies:** Prevention and reduction of crimes have become the priority of governments. Therefore, in this project, I aimed to analyze crime characteristics, dependencies and consequences.  [Report](./projects/crimeproject.pdf)
