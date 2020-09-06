@@ -52,7 +52,6 @@ Issues surrounding the protection of personal data are garnering more and more a
 
 * **Frequency Estimation in Single-Frequency Complex Tone Problem from Limited Number of Noisy Observations** In this project, we investigated frequency estimation in single-frequency complex tone problem from limited number of noisy observations. We estimate the frequency with two different estimators ans  derived the Carmer-Rao lower bounds for all parameters of multiple-frequency complex tone problem. [Report](./projects/Frequency_Estimation.pdf)
 
-* **Movie Recommender System** Today, recommender systems are one of the main part of e-commerce business. These systems try to find similar items to ones that the target costumer was interested before based on the given rates to them. Besides of huge number of users an movies, the similar rates for two items can not guarantee that these items are similar in real-world. In this project, we proposed a method to decrease search space and demonstrated.[Report](projects/RecommenderSystem.pdf)
 
 * **Dental Growth Rates Approximation** In this project, we tended to investigate the dental growth rate for 27 kids and compare the rates for girls and boys. In this regard, I used 3 different models to describe the dental growth rate. At the end, I used these models to predict jaw's size for random selected samples. [Report](projects/DentalGrowth.pdf)
 
@@ -61,12 +60,11 @@ Issues surrounding the protection of personal data are garnering more and more a
 ### Self-practice Projects
 
 * **Practing Networks Security Problems and Solutions** To deepen my knowledge in security analysis and real-world challenges I implemeted [SEED](https://seedsecuritylabs.org/Labs_16.04/Networking/) labs of:
-   - *DNS Rebinding attacks:* Due to firewalls and browser's sandbox protection, it is difficult for attackers to interact with the IoT servers. The goal of the attack in this lab is to use the DNS rebinding technique to circumvent these protections, so attackers can set the temperature value of the thermostat to a dangerously high value. 
+   - *DNS Rebinding attacks:* The goal of the attack in this lab is to use the DNS rebinding technique to circumvent these protections, so attackers can set the temperature value of the thermostat to a dangerously high value. 
    
-   - *Cross-site Request Forgery:*  A CSRF attack involves a victim user, a trusted site, and a malicious site. The victim user holds an active session with a trusted site while visiting a malicious site. The malicious site injects an HTTP request for the trusted site into the victim user session, causing damages.
-In this lab, an adversary will be attacking a social networking web application using the CSRF attack.
+   - *Cross-site Request Forgery:*  In this lab, an adversary will be attacking a social networking web application using the CSRF attack in which a malicious site  injects an HTTP request for the trusted site .
 
-   - *PKI Lab:* Public key cryptography is the foundation of today's secure communication, but it is subject to man-in-the-middle attacks when one side of communication sends its public key to the other side. The Public Key Infrastructure (PKI) is a practical solution to this problem. By doing the tasks in this lab, one should be able to gain a better understanding of how PKI works, how PKI is used to protect the Web, and how Man-in-the-middle attacks can be defeated by PKI. 
+   - *PKI Lab:* The Public Key Infrastructure (PKI) is a practical solution to secure communication. By doing the tasks in this lab, one can gain a better understanding of how PKI works, how PKI is used to protect the Web, and how Man-in-the-middle attacks can be defeated by PKI. 
 
 
 * **Analyzing Chicago Crime Characteristics Towards Understanding its Side-Effects and Dependencies:** Prevention and reduction of crimes have become the priority of governments. Therefore, in this project, I aim to analyze crime characteristics, dependencies and consequences. Also, I plan to define metrics denoting the safety level of each area which can be used for business investment purposes as well. [Report](./projects/crimeproject.pdf)
