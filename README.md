@@ -7,12 +7,11 @@
 
 I am PhD Candidate in Computer Science at Oregon State University (OSU). After studying Computer Science in most prestigious engineering school of Iran, Sharif University of Technology, where I earned my BS and MS degrees, I decided to embark on a challenging opportunity to study abroad. I successfully applied for PhD in the School of Electrical Engineering and Computer Science at OSU and joined the security group. My research interests are:
 
-* Data and Image Privacy
-* Data Science
-* Deep Learning and Machine Learning
-* Complex Networks Analysis
-* Cybersecurity
-
+* **Machine Learning & Deep Learning** 
+* **ata Science & Statistical Analysis** 
+* **Data & Image Privacy** 
+* **Complex Networks Analysis & Graph Mining** 
+* **Cybersecurity** 
 
 
 ### Education
@@ -39,7 +38,7 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
 * CREDC summer school student scholarship 2017 
 * GREPSECIII Workshop and IEEE Symposium on Security and Privacy student travel award 2017 
 * Conference on Computer and Communications Security (CCS) workshop student  travel award 2017 
-* Annual Computer Security Applications Conference (ASCAC) student conferenceship award 2016
+* Annual Computer Security Applications Conference (ACSAC) student conferenceship award 2016
 
 ###  Contact
 Email: rajabia@oregonstate.edu
