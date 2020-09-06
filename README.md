@@ -1,6 +1,6 @@
 
 
-### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates](./certificates.pdf)
+### [Education](#education)| [News](#news)| [Contact](#contact)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates](#certificates)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Biography
@@ -36,6 +36,8 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
 * Exploring Spark's GraphX, Cognitive Class (An IBM Initiative)
 * Data Science Methodology, Cognitive Class (An IBM Initiative)
 * Data Science Hands-On with Open Source Tools, Cognitive Class (An IBM Initiative)
+
+Please click [here](certificates.pdf) to see certificates documents
  
 
 
