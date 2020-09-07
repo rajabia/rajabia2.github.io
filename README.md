@@ -16,7 +16,15 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
 
 ### Education
 
+<div class="parent">
+<div class="img">
+<img width="100" height="100" style="vertical-align:middle" src="images/SUT.png"/>
+</div>
+<div class="text">
 
+ <span style="font-weight: bold">Ph.D. Candidate in Computer Science (2014 – Present)</span>.
+</div>
+</div>
 
 
                          
