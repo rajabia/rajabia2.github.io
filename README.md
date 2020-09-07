@@ -21,6 +21,10 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
   
 </div>
 
+<div style="position:relative;width:30px;height:60px;">
+  <div style="position:absolute;bottom:0">This is positioned on the bottom</div>
+</div>
+
                          
 * **Ph.D. Candidate in Computer Science (2014 – Present)**\
   Oregon State University, Corvallis, Oregon, USA.\
