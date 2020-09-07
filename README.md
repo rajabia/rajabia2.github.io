@@ -18,12 +18,10 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
 <div>
   <img style="vertical-align:middle" src="images/osu.png" width="80">
   <span style=""> <b>Ph.D. Candidate in Computer Science (2014 – Present)</b></span>
-  
+  <br><span style=""> <b>Ph.D. Candidate in Computer Science (2014 – Present)</b></span> </br>
+   <br><span style=""> <b>Ph.D. Candidate in Computer Science (2014 – Present)</b></span> </br>
 </div>
 
-<div style="position:relative;width:30px;height:60px;">
-  <div style="position:absolute;bottom:0">This is positioned on the bottom</div>
-</div>
 
                          
 * **Ph.D. Candidate in Computer Science (2014 – Present)**\
