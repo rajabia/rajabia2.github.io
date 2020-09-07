@@ -24,7 +24,7 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
 
 | H | H2 |
 |----|---|
-|  <img style="vertical-align:middle" src="images/osu.png" width="80"> | Ph.D. Candidate in Computer Science (2014 – Present) |
+|  <img style="vertical-align:middle" src="images/osu.png" width="80"> |<br> Ph.D. Candidate in Computer Science (2014 – Present)<br>Oregon State University, Corvallis, Oregon, USA. <br> *Thesis: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations for Robust CNNs* |
 
                          
 * **Ph.D. Candidate in Computer Science (2014 – Present)**\
