@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-mbtablestyle {
+.mbtablestyle {
         border-collapse: collapse;
 
    > table, td, th {
