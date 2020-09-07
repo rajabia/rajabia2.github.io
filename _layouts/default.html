@@ -15,7 +15,7 @@
     <div class="wrapper">
     
       <header>
-<!--         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -28,10 +28,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        
-         
-        
-        
+             
           
         <a href="https://scholar.google.com/citations?user=7yaFpQgAAAAJ&hl=en"><img src="/images/GS.png"  style="float: left; width: 15%; margin-right: 1%; margin-bottom: 0.5em;"></img></a>
         <a href="https://github.com/rajabia"><img src="/images/GH.png"  style="float: left; width: 15%; margin-right: 1%; margin-bottom: 0.5em;"></img></a>
@@ -40,47 +37,29 @@
         <a href="https://rajabia.github.io"><img src="/images/Home.jpg"  style="float: left; width: 15%; margin-right: 1%; margin-bottom: 0.5em;"></img></a>
       
   
-    <p style="clear: both;">
+        <p style="clear: both;">
       
-        <div style = "font-family: Times New Roman,Times,serif; height:400px; width:300px; float:left;">
-          <div style = "font-size: 16pt"><span>Arezoo Rajabi</span></div>
-          <div style = "font-size: 13pt"> <span>PhD Candidate </span></div>
-           <div style = "font-size: 13pt"><span> Computer Sceince</span></div>
-            <div style = "font-size: 13pt"><span>Oregon State University</span></div>
-         </div>
+          <div style = "font-family: Times New Roman,Times,serif; height:400px; width:300px; float:left;">
+              <div style = "font-size: 16pt"><span>Arezoo Rajabi</span></div>
+              <div style = "font-size: 13pt"> <span>PhD Candidate </span></div>
+              <div style = "font-size: 13pt"><span> Computer Sceince</span></div>
+              <div style = "font-size: 13pt"><span>Oregon State University</span></div>
+           </div>
 
-      <div style = "font-family: Times New Roman,Times,serif; height:400px; width:300px; float:left;">
+       
+        {% endif %}
+          
+      
+      </header>
+
+      <section>
+        
+        <div style = "font-family: Times New Roman,Times,serif; height:400px; width:300px; float:left;">
           <div style = "font-size: 1qpt"><span>Contact</span></div>
           <div style = "font-size: 9 pt"> <span>rajabia AT oregonstate DOT edu </span></div>
            <div style = "font-size: 9pt"><span> www.linkedin.com/in/arezoo-rajabi</span></div>
             
          </div>
-       
-        {% endif %}
-          {%if true%}
-<!--        <div>
-        <ul>
-          
-          
-          <li><a href="./README.md"><span
-            style="font-size: 14pt;font-family: Times New Roman,Times,serif">Home</span></a></li>
-          <li><a href="./Publications/papers.html"><span
-            style="font-size: 14pt;font-family: Times New Roman,Times,serif">Publications</span></a></li>
-          
-          
-          
-          <li><a href="CV.pdf"><span
-            style="font-size: 14pt;font-family: Times New Roman,Times,serif">Curriculum
-            Vitae</span></a></li>
-          
-        </ul>
-         </div> -->
-       
-          {% endif %}
-      
-      </header>
-
-      <section>
 
       {{ content }}
 
