@@ -16,17 +16,6 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
 
 ### Education
 
-<div class="parent">
-  <div class="img">
-    <img width="100" height="100" style="vertical-align:middle" src="images/SUT.png"/>
-  </div>
-  <div class="text">
-    Ph.D. Candidate in Computer Science (2014 – Present)
-    <span style="font-weight: bold">Ph.D. Candidate in Computer Science (2014 – Present)</span>.
-  </div>
-</div>
-
-
                          
 * **Ph.D. Candidate in Computer Science (2014 – Present)**\
   Oregon State University, Corvallis, Oregon, USA.\
@@ -40,7 +29,6 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
   Sharif University of Technology, Department of Computer Science\
   *Thesis: Community Detection in Complex Networks*
   
-<img style="vertical-align:middle" src="images/osu.png" width="110"> <img style="vertical-align:middle" src="images/SUT.png" width="110">
 
 ### Certificates
 * Spark Fundamentals II,  Cognitive Class (An IBM Initiative)
