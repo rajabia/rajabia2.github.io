@@ -22,6 +22,8 @@ I am PhD Candidate in Computer Science at Oregon State University (OSU). After s
    <br><span style=""> <b>Ph.D. Candidate in Computer Science (2014 – Present)</b></span> </br>
 </div>
 
+| H | H2 |
+|----|---|
 |  <img style="vertical-align:middle" src="images/osu.png" width="80"> | Ph.D. Candidate in Computer Science (2014 – Present) |
 
                          
