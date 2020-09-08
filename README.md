@@ -50,8 +50,5 @@ Please click [here](certificates.pdf) to see certificates.
 * Conference on Computer and Communications Security (CCS) workshop student  travel award 2017 
 * Annual Computer Security Applications Conference (ACSAC) student conferenceship award 2016
 
-###  Contact
-Email: rajabia@oregonstate.edu
 
-Linkedin: www.linkedin.com/in/Arezoo-Rajabi
 
