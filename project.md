@@ -7,16 +7,16 @@
    - *Practical Adversarial Perturbation for Image Privacy:* Image hosting platforms are a popular way to store and share images with family members and friends. 
 However, such platforms typically have full access to images raising privacy concerns.
 These concerns are further exacerbated with the advent of Convolutional Neural Networks (CNNs) that can be trained on available images to automatically detect and recognize faces with high accuracy.
-In this project, we  proposed two practical adversarial perturbation approaches for image privacy. Our paper for image privacy got accepted in Privacy Enhancing Technology symposium (PETs).
+In this project, we proposed two practical adversarial perturbation approaches for image privacy. Our paper for image privacy got accepted in the Privacy Enhancing Technology Symposium (PETs).
 
 * **Robust Convolutional Neural Networks (CNNs) (2017-2020)**
    
-   - *Detect and Reject Adversarial Examples:* Detection and rejection of adversarial examples in security sensitive and safety-critical systems using deep CNNs is essential. In this project, We aimed to detect and reject or classify adversarial examples correctly. To this end, we proposed three methods:
+   - *Detect and Reject Adversarial Examples:* Detection and rejection of adversarial examples in security-sensitive and safety-critical systems using deep CNNs are essential. In this project, We aimed to detect and reject or classify adversarial examples correctly. To this end, we proposed three methods:
    
   
       1.  Learning an ensemble of diverse specialized CNNs along with a simple voting mechanism. The diversity in this ensemble creates a gap between the predictive confidences of adversaries and those of clean samples, making adversaries detectable. [Paper](https://arxiv.org/pdf/2005.08321)
       
-      2. Learning augment CNNs with out-distribution learning in order to reduce misclassification rate by rejecting adversarial examples. We empirically showed that augmented CNNs trained on few set of OOD set can either reject or classify correctly most adversarial examples generated using well-known methods [Paper](https://arxiv.org/pdf/1804.08794)
+      2. Learning augmented CNNs with out-distribution learning in order to reduce the misclassification rate by rejecting adversarial examples. We empirically showed that augmented CNNs trained on a few set of OOD set could either reject or classify correctly most adversarial examples generated using well-known methods [Paper](https://arxiv.org/pdf/1804.08794)
       
       3.  Learning adversarial profiles for each class using only one adversarial attack generation technique. We then wrap a detector around the pre-trained CNN that applies the created adversarial profile to each input and uses the output to decide whether or not the input is legitimate. [Paper](https://dependablesecureml.github.io/2019/program.html)
      
@@ -25,11 +25,11 @@ In this project, we  proposed two practical adversarial perturbation approaches 
 
 * **Power Systems Cyberbersecurity (2016-2019)** 
 
-   - *False Data Tolerance Mechanisms for Distributed Mode Estimation:* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect  oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attack. In this project, we proposed  two resiliency mechanisms for S-ADMM and D-ADMM that have been published in IEEE SmartGridComm and ICSS. This project was funded by Cyber Resilient Energy Delivery Consortium (CREDC) and National Science Foundation (NSF). [ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
+   - *False Data Tolerance Mechanisms for Distributed Mode Estimation:* Standard Alternating Direction of Multipliers Method (S-ADMM) and Distributed Alternating Direction of Multipliers Method (D-ADMM)  have been proposed to detect oscillations in distributed power systems. Unfortunately, these two methods are vulnerable to false data injection attacks. In this project, we proposed two resiliency mechanisms for S-ADMM and D-ADMM published in IEEE SmartGridComm and ICSS. This project was funded by the Cyber Resilient Energy Delivery Consortium (CREDC) and the National Science Foundation (NSF).[ACSAC2016](https://www.acsac.org/2016/program/files/03-Resilient%20Algorithm%20for%20Power%20System%20Mode%20Estimation%20using%20Synchrophasors-A-Rajabi.pdf), [SmartGridComm2019](https://ieeexplore.ieee.org/abstract/document/8909709)
 
-* **Complex Netwoks Analysis (2010-2013)**
+* **Complex Networks Analysis (2010-2013)**
 
-  - *Sampling form Complex Networks*  We proposed a novel link-tracing sampling algorithm, based on the concepts from PageRank vectors, to sample from networks with high community structures. Our method has two phases;  [Chaos Paper](http://coinlab.ut.ac.ir/documents/17321997/30927624/Sampling%20from%20Complex%20Networks%20with%20High%20Community%20Structures.pdf), [Report](./projects/ArezooRajabi.LCD-RW.pdf)
+  - *Sampling form Complex Networks*  We proposed a novel link-tracing sampling algorithm, based on the concepts from PageRank vectors, to sample from networks with high community structures. [Chaos Paper](http://coinlab.ut.ac.ir/documents/17321997/30927624/Sampling%20from%20Complex%20Networks%20with%20High%20Community%20Structures.pdf), [Report](./projects/ArezooRajabi.LCD-RW.pdf)
   
   - *Local Community Detection  in Complex Networks*: In this project, we introduced a novel local community detection algorithm based on the random walk probability distribution. [Report](./projects/ArezooRajabi.LCD-RW.pdf)
   
