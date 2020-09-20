@@ -3,9 +3,9 @@
 ### [Education](#education)| [News](#news)|[Publications](/Publications/papers.html) | [Projects](project.md) | [CV](./CV.pdf) | [Certificates](#certificates)
 ----------------------------------------------------------------------------------------------------------------------------------
 
-### Biography
+### Intro
 
-I am a PhD Candidate in Computer Science at Oregon State University (OSU). After studying Computer Science in the most prestigious engineering school of Iran, Sharif University of Technology, where I earned my BS and MS degrees, I decided to embark on a challenging opportunity to study abroad. I successfully applied for PhD in the School of Electrical Engineering and Computer Science at OSU and joined the security group. My research interests are:
+I am a Ph.D. Candidate in Computer Science at Oregon State University (OSU). I am working on the intersection of Machine Learning and Cybersecurity. Furthermore, I am interested in image privacy in image sharing platforms.  I am a dedicated and passionate ML researcher and so eager to work on new topics and recently emerged challenges with the ability to work independently and in a team environment. For instance, I spent two years of my Ph.D. on improving the distributed mode estimation of standard and dynamic alternative direction method of multipliers in power systems for tolerating false data injection attack. I enjoy working in a team, so I collaborated with Dr. Wuchi Feng and Dr. Charles Wright at Portland State University on my image privacy project and with Mahdieh Abbasi, Ph.D. student of Univertie' Laval in Quebec, on our dependable and secure deep neural networks project. 
 
 * **Machine Learning & Deep Learning** 
 * **Data Science & Statistical Analysis** 
