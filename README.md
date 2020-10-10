@@ -21,7 +21,7 @@ I am a Ph.D. Candidate in Computer Science and a Graduate Research Assistant at 
                          
 * **Ph.D. Candidate in Computer Science (2014 – Present)**\
   Oregon State University, Corvallis, Oregon, USA.\
-  *Thesis: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations for Robust CNNs* 
+  *Thesis: Two Sides of a Coin: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations for Robust CNNs* 
   
 * **Master of Science (M.S.) in Computer Engineering (Software engineering) (2011 – 2013)** \
   Sharif University of Technology, Department of Computer Engineering \
