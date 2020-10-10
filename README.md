@@ -47,10 +47,10 @@ Please click [here](certificates.pdf) to see certificates.
 ### News
 * Attended [10th Montréal Industrial Problem Solving](http://www.crm.umontreal.ca/industrialprob2020/) Workshop and worked on Data Anonymization and Synthesis project (Desjardins Group). The report will be available soon.
 * First place winner at Grad show case poster presentation, ”Towards Dependable Deep CNNs with Out-distribution Learning ” 2018
-* CREDC summer school student scholarship 2017 
-* GREPSECIII Workshop and IEEE Symposium on Security and Privacy student travel award 2017 
-* Conference on Computer and Communications Security (CCS) workshop student  travel award 2017 
-* Annual Computer Security Applications Conference (ACSAC) student conferenceship award 2016
+* Won student  scholarship  from  CREDC summer school, 2017 
+* Won student  travel award  from  GREPSECIII Workshop and IEEE Symposium on Security and Privacy,2017 
+* Won student  travel award  from Conference on Computer and Communications Security (CCS), 2017 
+* Won student  travel award  from  Annual Computer Security Applications Conference (ACSAC), 2016
 
 
 
