@@ -1,8 +1,7 @@
 
-
-### [Education](#education) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp;  [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;   [Certificates](#certificates)
-
-[Publication](/Publications/papers.html){:target="_blank"}
+|---|---|---|---|---|
+### |[Education](#education) &nbsp;| [News](#news)&nbsp;| [Publications](/Publications/papers.html) &nbsp; | [Projects](project.md)&nbsp; |[CV](./CV.pdf)&nbsp;  | [Certificates]|(#certificates)
+|---|---|---|---|---|
 
 ### Bio
 
