@@ -3,7 +3,7 @@
 ### [Education](#education) &nbsp;[Certificates](#certificates) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp; [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;
 
 
-[![education](./images/education.jpg)](#education)
+[![education](./images/education.jpg){ width: 50px; }](#education)
 
 ### Bio
 
