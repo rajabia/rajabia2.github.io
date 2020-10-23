@@ -1,6 +1,6 @@
 
 
-## [Education](#education) &nbsp;[Certificates](#certificates) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp; [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;
+#### [Education](#education) &nbsp; &nbsp;[Certificates](#certificates) &nbsp; &nbsp; [News](#news)&nbsp; &nbsp; [Publications](/Publications/papers.html) &nbsp; &nbsp; [Projects](project.md)&nbsp; &nbsp; [CV](./CV.pdf)
 
 
 
