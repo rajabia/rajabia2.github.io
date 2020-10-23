@@ -2,7 +2,7 @@
 
 ### [Education](#education) &nbsp;[Certificates](#certificates) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp; [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;
 
-[<img src="/images/education.jpg" width="50"/>](#education) &nbsp; &nbsp; [<img src="/images/certificate.jpg" width="56"/>](#certificates) &nbsp; &nbsp; [<img src="/images/news.jpg" width="50"/>](#news)
+[<img src="/images/education.jpg" width="20"/>][Education](#education)  &nbsp; &nbsp; [<img src="/images/certificate.jpg" width="56"/>](#certificates) &nbsp; &nbsp; [<img src="/images/news.jpg" width="50"/>](#news) &nbsp; &nbsp; 
 
 
 
