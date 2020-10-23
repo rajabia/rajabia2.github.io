@@ -1,8 +1,8 @@
 
 
-### [Education](#education){: .btn} &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html){: .btn} &nbsp;  [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;   [Certificates](#certificates)
+### [Education](#education) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp;  [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;   [Certificates](#certificates)
 
-
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 ### Bio
 
