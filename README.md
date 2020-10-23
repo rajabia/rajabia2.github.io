@@ -2,9 +2,12 @@
 
 ### [Education](#education) &nbsp;[Certificates](#certificates) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp; [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;
 
-[![Education](<img src="/images/education.jpg" width="50"/>)](#education) &nbsp; &nbsp; [<img src="/images/certificate.jpg" width="60"/>](#certificates) &nbsp; &nbsp; [<img src="/images/news.jpg" width="50"/>](#news)
+[<img src="/images/education.jpg" width="50"/>](#education) &nbsp; &nbsp; [<img src="/images/certificate.jpg" width="60"/>](#certificates) &nbsp; &nbsp; [<img src="/images/news.jpg" width="50"/>](#news)
 
-
+<p>
+    [<img src="/images/education.jpg" width="50"/ alt>](#education)
+    <em>iEducation/em>
+</p>
 
 ### Bio
 
