@@ -4,6 +4,10 @@
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 
+[Click me2](http://www.google.com){: .btn}
+
+<button name="button">Click me3</button>
+
 ### Bio
 
 I am a Ph.D. Candidate in Computer Science and a Graduate Research Assistant at Oregon State University (OSU), working on Image Privacy and intersection of Machine Learning and Cybersecurity under supervision of [Prof. Rakesh B. Bobba](https://eecs.oregonstate.edu/people/bobba-rakesh). I  am collabrating with  [Prof. Wuchi Feng](https://web.cecs.pdx.edu/~wuchi/) and [Prof. Charles Wright](https://web.cecs.pdx.edu/~cvwright/) at Portland State University on my image privacy project. In this project we are exploring  the practical adversarial perturbations for image privacy in image sharing platforms. I also worked with 
