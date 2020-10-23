@@ -2,11 +2,7 @@
 
 ### [Education](#education) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp;  [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;   [Certificates](#certificates)
 
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-[Click me2](http://www.google.com){: .btn}
-
-<button name="button">Click me3</button>
+[button url="http://www.google.com"]
 
 ### Bio
 
