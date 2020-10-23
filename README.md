@@ -2,7 +2,8 @@
 
 ### [Education](#education) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp;  [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;   [Certificates](#certificates)
 
-[![button](Publications)](/Publications/papers.html)
+[Publication](/Publications/papers.html){:target="_blank"}
+
 ### Bio
 
 I am a Ph.D. Candidate in Computer Science and a Graduate Research Assistant at Oregon State University (OSU), working on Image Privacy and intersection of Machine Learning and Cybersecurity under supervision of [Prof. Rakesh B. Bobba](https://eecs.oregonstate.edu/people/bobba-rakesh). I  am collabrating with  [Prof. Wuchi Feng](https://web.cecs.pdx.edu/~wuchi/) and [Prof. Charles Wright](https://web.cecs.pdx.edu/~cvwright/) at Portland State University on my image privacy project. In this project we are exploring  the practical adversarial perturbations for image privacy in image sharing platforms. I also worked with 
