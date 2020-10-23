@@ -2,7 +2,8 @@
 
 ### [Education](#education) &nbsp;[Certificates](#certificates) &nbsp; [News](#news)&nbsp; [Publications](/Publications/papers.html) &nbsp; [Projects](project.md)&nbsp; [CV](./CV.pdf)&nbsp;
 
-[<img src="/images/education.jpg" width="50"/>](#education)
+[<img src="/images/education.jpg" width="50"/>](#education) &nbsp; &nbsp; [<img src="/images/certificate.jpg" width="50"/>](#certificates) &nbsp; &nbsp; [<img src="/images/new.jpg" width="50"/>](#newa)
+
 
 
 ### Bio
