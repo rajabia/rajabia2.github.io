@@ -28,7 +28,7 @@ I am a Ph.D. Candidate in Computer Science and a Graduate Research Assistant at 
   Sharif University of Technology, Department of Computer Engineering \
   *Thesis: Local Community Detection in Social Networks*
   
-* **Bachelor Science (B.S.) in Computer Science (2005 – 2010)**\
+* **Bachelor of Science (B.S.) in Computer Science (2005 – 2010)**\
   Sharif University of Technology, Department of Computer Science\
   *Thesis: Community Detection in Complex Networks*
   
