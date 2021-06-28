@@ -20,7 +20,7 @@ I am a postdoctoral scholar at University of Washington. I recieved my Ph.D. deg
 ### Education
 
                          
-* **Ph.D. Candidate in Computer Science (2014 – Present)**\
+* **Ph.D. Candidate in Computer Science (2014 – 2021)**\
   Oregon State University, Corvallis, Oregon, USA.\
   *Thesis: Two Sides of a Coin: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations for Robust CNNs* 
   
