@@ -7,8 +7,8 @@
 
 ### Bio
 
-I am a Ph.D. Candidate in Computer Science and a Graduate Research Assistant at Oregon State University (OSU), working on Image Privacy and intersection of Machine Learning and Cybersecurity under supervision of [Prof. Rakesh B. Bobba](https://eecs.oregonstate.edu/people/bobba-rakesh). I  am collabrating with  [Prof. Wuchi Feng](https://web.cecs.pdx.edu/~wuchi/) and [Prof. Charles Wright](https://web.cecs.pdx.edu/~cvwright/) at Portland State University on my image privacy project. In this project we are exploring  the practical adversarial perturbations for image privacy in image sharing platforms. I also worked with 
- [Mahdieh Abbasi](http://mahdane.github.io), Ph.D. student of Univertie' Laval in Quebec, on our dependable and secure deep neural networks project in which we tended to detect and reject adversarial and out-distribution examples. I worked as gradurate research assistant at [Digital Media Lab](http://dml.ce.sharif.edu/dmlsite/?q=people)  on some fun and exciting projects on complex networks analysis methods and graph theories. I received my Master's and Bachelor's degrees in Computer Engineeing and Computer Science at Sharif University of Technology. In general, my research areas of intrerest are:
+I am a postdoctoral scholar at University of Washington. I recieved my Ph.D. degree in Computer Science from Oregon State University (OSU) under supervision of [Prof. Rakesh B. Bobba](https://eecs.oregonstate.edu/people/bobba-rakesh). My Ph.D. project focused on Image Privacy and intersection of Machine Learning and Cybersecurity. I collaborated on some fun and exciting projects with  with  [Prof. Wuchi Feng](https://web.cecs.pdx.edu/~wuchi/) and [Prof. Charles Wright](https://web.cecs.pdx.edu/~cvwright/) at Portland State University on my image privacy project. In this project we  exploed  the practical adversarial perturbations for image privacy in image sharing platforms. I also worked with 
+ [Mahdieh Abbasi](http://mahdane.github.io), Ph.D. student of Univertie' Laval in Quebec, on our dependable and secure deep neural networks project in which we tended to detect and reject adversarial and out-distribution examples. I worked as gradurate research assistant at [Digital Media Lab](http://dml.ce.sharif.edu/dmlsite/?q=people) and conducted research on complex networks analysis methods and graph theories. I received my Master's and Bachelor's degrees in Computer Engineeing and Computer Science at Sharif University of Technology. In general, my research areas of intrerest are:
 
 * **Machine Learning & Deep Learning** 
 * **Data Science & Statistical Analysis** 
@@ -46,6 +46,10 @@ Please click [here](certificates.pdf) to see certificates.
 
 
 ### News
+* Presented [my poster](https://www.ieee-security.org/TC/SP2021/downloads/poster/poster26.pdf) in S&P 2021 
+* Joined the Network Security Lab (NSL) group at University of Washington, March 2021.
+* Defended my PhD, Feb. 2021.
+* My paper, "Resilience Against Data Manipulation in Distributed Synchrophasor-Based Mode Estimation", was accepted in IEEE Transaction on Smart Grid.
 * Attended [10th Montréal Industrial Problem Solving](http://www.crm.umontreal.ca/industrialprob2020/) Workshop and worked on Data Anonymization and Synthesis project (Desjardins Group). The report will be available soon.
 * First place winner at Grad show case poster presentation, ”Towards Dependable Deep CNNs with Out-distribution Learning ” 2018
 * Won student  scholarship  from  CREDC summer school, 2017 
