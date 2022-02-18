@@ -49,6 +49,7 @@ Please click [here](certificates.pdf) to see certificates.
 * My paper, "Adversarial Images Against Super-Resolution Convolutional Neural Networks for Free", was accepted in Privacy Enhancing Technologies Symposium 2022.
 * Attended [10th Montréal Industrial Problem Solving]
 * Presented [my poster](https://www.ieee-security.org/TC/SP2021/downloads/poster/poster26.pdf) in S&P 2021 
+* Joined NSL, University of Washington as Postdoctoral Scholar my PhD, March. 2021.
 * Joined the Network Security Lab (NSL) group at University of Washington, March 2021.
 * Defended my PhD, Feb. 2021.
 * My paper, "Resilience Against Data Manipulation in Distributed Synchrophasor-Based Mode Estimation", was accepted in IEEE Transaction on Smart Grid.
