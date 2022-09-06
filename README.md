@@ -23,11 +23,11 @@ I am working as a postdoctoral scholar at [Network Security Lab](https://labs.ec
   Oregon State University, Corvallis, Oregon, USA.\
   *Thesis: Two Sides of a Coin: Adversarial-Based Image Privacy and Defending Against Adversarial Perturbations for Robust CNNs* 
   
-* **Master of Science (M.S.) in Computer Engineering (Software engineering) (2011 – 2013)** \
+* **Master of Science (M.Sc.) in Computer Engineering (Software engineering) (2011 – 2013)** \
   Sharif University of Technology, Department of Computer Engineering \
   *Thesis: Local Community Detection in Social Networks*
   
-* **Bachelor of Science (B.S.) in Computer Science (2005 – 2010)**\
+* **Bachelor of Science (B.Sc.) in Computer Science (2005 – 2010)**\
   Sharif University of Technology, Department of Computer Science\
   *Thesis: Community Detection in Complex Networks*
   
@@ -45,6 +45,7 @@ Please click [here](certificates.pdf) to see certificates.
 
 
 ### News
+* My paper "Privacy Preserving Reinforcement Learning Beyond Expectation", Accepted in 61st IEEE Conference on Decision and Control, 202
 * My paper, "Adversarial Images Against Super-Resolution Convolutional Neural Networks for Free", was accepted in Privacy Enhancing Technologies Symposium 2022.
 * Attended [10th Montréal Industrial Problem Solving]
 * Presented [my poster](https://www.ieee-security.org/TC/SP2021/downloads/poster/poster26.pdf) in S&P 2021 
